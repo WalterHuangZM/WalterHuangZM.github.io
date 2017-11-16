@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Man&#39;s Blog</title>
+  
+  <subtitle>WalterHuang</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-11-16T07:58:55.837Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>WalterHuang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三维空间求圆</title>
+    <link href="http://yoursite.com/2017/11/16/circle/"/>
+    <id>http://yoursite.com/2017/11/16/circle/</id>
+    <published>2017-11-16T07:21:59.000Z</published>
+    <updated>2017-11-16T07:58:55.837Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
